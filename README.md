@@ -20,8 +20,8 @@ From within the react-final directory, type 'npm install' into bash (this should
 
 You may need to open an extra bash window for the next part.
 
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It also utilizes json-server.
-## In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It also utilizes json-server.
+In the project directory, you can run:
 
 In one bash window, type the below command (from react-final directory) - 
 ### `npm start`
