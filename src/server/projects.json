@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "title": "PacMan With a Twist",
+      "shortDescription": "Revisiting a classic with a twist!",
+      "creator": "Jonah Larson",
+      "id": 1,
+      "mainImage": "./images/WeirdPacman.jpg"
+    },
+    {
+      "title": "custom weather widget (windows)",
+      "creator": "Jonah Larson",
+      "shortDescription": "Basic but functional, needs improvement",
+      "id": 2,
+      "mainImage": "./images/weatherwidget.jpg"
+    },
+    {
+      "title": "calculator app",
+      "creator": "Jonah Larson",
+      "shortDescription": "My attempt at the basic calculator",
+      "id": 3,
+      "mainImage": "./images/calculatorApp.jpg"
+    },
+    {
+      "title": "christmas lights",
+      "creator": "Jonah Larson",
+      "shortDescription": "Fun but only decorative",
+      "id": 4,
+      "mainImage": "./images/christmas_lights.jpg"
+    },
+    {
+      "title": "notes app",
+      "creator": "Jonah Larson",
+      "shortDescription": "a text editor with dark mode",
+      "id": 5,
+      "mainImage": "./images/Note_Editor.jpg"
+    },
+    {
+      "title": "recipe app",
+      "creator": "Jonah Larson",
+      "shortDescription": "no short stories, just the recipes please",
+      "id": 6
+    }
+  ]
+}
