@@ -1,11 +1,18 @@
 # react-final
 
-This was a final project in a React class. The goal was to create a mock portfolio website. The portfolio includes a projects page utilizing card elements for each project 
-and with an admin page for editing and deleting projects.
+This was a final project in a React class. The goal was to create a website using the React framework. 
 
+- - - - 
 ![picture alt](react_app_projects.png "The Projects Page")
+- - - -
 ![picture alt](react_app_admin.png "The Admin Page")
+- - - -
 
+## Requirements
+
+[React_Final_Requirements.jpg](React_Final_Requirements.jpg "React_Final_Requirements.jpg")
+
+- - - - 
 ## How to Install / Run
 
 Open project folder with IDE of choice (recommendation: Visual Studio Code)
