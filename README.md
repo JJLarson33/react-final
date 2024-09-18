@@ -1,6 +1,6 @@
 # react-final
 
-This was a final project in a React class. The goal was to create a mock portfolio website. The portfolio includes a projects page utilizing card elements for each project\
+This was a final project in a React class. The goal was to create a mock portfolio website. The portfolio includes a projects page utilizing card elements for each project 
 and with an admin page for editing and deleting projects.
 
 ![picture alt](react_app_projects.png "The Projects Page")
