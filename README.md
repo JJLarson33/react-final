@@ -12,7 +12,6 @@ This was a final project in a React class. The goal was to create a website usin
 
 [React_Final_Requirements.jpg](React_Final_Requirements.jpg "React_Final_Requirements.jpg")
 
-- - - - 
 ## How to Install / Run
 
 Open project folder with IDE of choice (recommendation: Visual Studio Code)
